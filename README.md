@@ -3,6 +3,12 @@
 
 <br>
 
+## Running the Script
+1. Store csv files in same dir as script
+2. Execute command `python machineDataAnalysis.py`
+
+<br>
+
 ## Script Summary 
 - Reads in .csv machine data
 - Cleans outliers from data
